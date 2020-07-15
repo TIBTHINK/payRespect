@@ -1,0 +1,7 @@
+main: com.tibthink.pyRespect.Main
+name: F
+version: 1.0
+author: tibthink
+
+commands:
+   hello:
