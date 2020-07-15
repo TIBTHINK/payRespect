@@ -1,7 +1,9 @@
-main: com.tibthink.pyRespect.Main
+main: com.tibthink.payRespect.Main
 name: F
-version: 1.0
+version: 1.1.4
 author: tibthink
+description: Sends a F to the chat whenever someone dies
 
 commands:
-   hello:
+   Test: 
+      description: Tests to make sure the plugin works
